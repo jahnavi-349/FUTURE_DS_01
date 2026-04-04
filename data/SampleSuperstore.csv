@@ -1,0 +1,201 @@
+Order Date,Region,Category,Product Name,Sales
+2023-01-01,East,Technology,Binder,619
+2023-01-02,South,Office Supplies,Chair,249
+2023-01-03,West,Office Supplies,Chair,576
+2023-01-04,East,Office Supplies,Pen,492
+2023-01-05,South,Technology,Pen,783
+2023-01-06,South,Furniture,Binder,658
+2023-01-07,South,Furniture,Phone,100
+2023-01-08,South,Furniture,Printer,460
+2023-01-09,West,Furniture,Pen,791
+2023-01-10,South,Office Supplies,Printer,650
+2023-01-11,West,Office Supplies,Binder,189
+2023-01-12,Central,Furniture,Laptop,174
+2023-01-13,East,Furniture,Laptop,599
+2023-01-14,South,Furniture,Printer,838
+2023-01-15,Central,Technology,Desk,735
+2023-01-16,East,Office Supplies,Table,443
+2023-01-17,East,Furniture,Phone,196
+2023-01-18,East,Furniture,Phone,951
+2023-01-19,Central,Technology,Phone,382
+2023-01-20,West,Furniture,Table,818
+2023-01-21,Central,Office Supplies,Laptop,132
+2023-01-22,South,Technology,Binder,215
+2023-01-23,South,Technology,Laptop,554
+2023-01-24,Central,Technology,Phone,965
+2023-01-25,East,Furniture,Desk,528
+2023-01-26,West,Furniture,Binder,927
+2023-01-27,West,Furniture,Laptop,925
+2023-01-28,West,Technology,Phone,790
+2023-01-29,West,Technology,Pen,273
+2023-01-30,East,Office Supplies,Printer,845
+2023-01-31,West,Technology,Printer,232
+2023-02-01,East,Furniture,Laptop,541
+2023-02-02,South,Furniture,Binder,193
+2023-02-03,East,Technology,Pen,447
+2023-02-04,South,Office Supplies,Table,501
+2023-02-05,West,Technology,Desk,519
+2023-02-06,Central,Technology,Laptop,806
+2023-02-07,South,Technology,Binder,504
+2023-02-08,South,Furniture,Chair,285
+2023-02-09,East,Furniture,Desk,475
+2023-02-10,Central,Furniture,Phone,776
+2023-02-11,South,Technology,Chair,973
+2023-02-12,East,Office Supplies,Laptop,802
+2023-02-13,West,Technology,Printer,616
+2023-02-14,South,Technology,Phone,597
+2023-02-15,West,Furniture,Laptop,598
+2023-02-16,South,Furniture,Table,305
+2023-02-17,South,Technology,Laptop,514
+2023-02-18,Central,Office Supplies,Table,465
+2023-02-19,South,Furniture,Printer,955
+2023-02-20,East,Office Supplies,Binder,838
+2023-02-21,West,Office Supplies,Table,519
+2023-02-22,West,Technology,Desk,685
+2023-02-23,West,Technology,Desk,318
+2023-02-24,South,Technology,Pen,638
+2023-02-25,East,Office Supplies,Chair,474
+2023-02-26,South,Furniture,Binder,122
+2023-02-27,Central,Furniture,Chair,560
+2023-02-28,East,Technology,Pen,819
+2023-03-01,South,Furniture,Chair,454
+2023-03-02,South,Office Supplies,Chair,702
+2023-03-03,Central,Office Supplies,Desk,151
+2023-03-04,South,Furniture,Chair,914
+2023-03-05,Central,Office Supplies,Pen,820
+2023-03-06,South,Office Supplies,Table,673
+2023-03-07,East,Office Supplies,Chair,544
+2023-03-08,Central,Technology,Phone,915
+2023-03-09,East,Technology,Desk,204
+2023-03-10,East,Furniture,Table,740
+2023-03-11,East,Furniture,Pen,494
+2023-03-12,West,Furniture,Printer,427
+2023-03-13,West,Office Supplies,Table,706
+2023-03-14,Central,Office Supplies,Laptop,618
+2023-03-15,East,Technology,Printer,785
+2023-03-16,East,Technology,Chair,345
+2023-03-17,West,Furniture,Chair,514
+2023-03-18,South,Furniture,Laptop,627
+2023-03-19,East,Office Supplies,Binder,269
+2023-03-20,West,Technology,Pen,266
+2023-03-21,Central,Technology,Chair,409
+2023-03-22,Central,Office Supplies,Printer,694
+2023-03-23,South,Furniture,Printer,491
+2023-03-24,East,Technology,Printer,320
+2023-03-25,West,Technology,Table,933
+2023-03-26,West,Technology,Pen,781
+2023-03-27,South,Technology,Desk,934
+2023-03-28,West,Technology,Desk,214
+2023-03-29,West,Office Supplies,Table,960
+2023-03-30,South,Office Supplies,Printer,434
+2023-03-31,Central,Office Supplies,Table,841
+2023-04-01,South,Furniture,Binder,319
+2023-04-02,South,Technology,Table,346
+2023-04-03,Central,Office Supplies,Pen,200
+2023-04-04,Central,Technology,Phone,515
+2023-04-05,South,Technology,Binder,321
+2023-04-06,East,Technology,Table,278
+2023-04-07,Central,Technology,Phone,608
+2023-04-08,South,Furniture,Binder,274
+2023-04-09,West,Office Supplies,Pen,705
+2023-04-10,East,Office Supplies,Phone,726
+2023-04-11,West,Furniture,Desk,773
+2023-04-12,Central,Technology,Desk,880
+2023-04-13,East,Technology,Pen,836
+2023-04-14,South,Furniture,Table,845
+2023-04-15,East,Furniture,Table,948
+2023-04-16,Central,Furniture,Table,166
+2023-04-17,East,Office Supplies,Desk,556
+2023-04-18,South,Technology,Chair,225
+2023-04-19,South,Office Supplies,Phone,238
+2023-04-20,East,Technology,Chair,724
+2023-04-21,South,Office Supplies,Printer,830
+2023-04-22,East,Furniture,Table,255
+2023-04-23,East,Office Supplies,Printer,796
+2023-04-24,East,Furniture,Binder,220
+2023-04-25,East,Technology,Chair,421
+2023-04-26,Central,Technology,Phone,548
+2023-04-27,South,Technology,Desk,809
+2023-04-28,East,Furniture,Laptop,956
+2023-04-29,South,Furniture,Table,390
+2023-04-30,Central,Furniture,Printer,103
+2023-05-01,South,Furniture,Printer,800
+2023-05-02,South,Furniture,Printer,338
+2023-05-03,West,Furniture,Chair,777
+2023-05-04,West,Technology,Chair,271
+2023-05-05,West,Furniture,Pen,823
+2023-05-06,East,Office Supplies,Laptop,956
+2023-05-07,West,Office Supplies,Binder,682
+2023-05-08,West,Technology,Chair,760
+2023-05-09,West,Technology,Desk,896
+2023-05-10,South,Technology,Phone,727
+2023-05-11,East,Office Supplies,Phone,934
+2023-05-12,South,Technology,Pen,704
+2023-05-13,West,Technology,Pen,714
+2023-05-14,Central,Furniture,Printer,969
+2023-05-15,East,Technology,Desk,479
+2023-05-16,West,Office Supplies,Table,809
+2023-05-17,Central,Technology,Printer,209
+2023-05-18,East,Technology,Phone,429
+2023-05-19,Central,Furniture,Pen,200
+2023-05-20,East,Furniture,Phone,794
+2023-05-21,West,Technology,Phone,945
+2023-05-22,South,Technology,Printer,607
+2023-05-23,Central,Office Supplies,Laptop,771
+2023-05-24,Central,Technology,Table,693
+2023-05-25,West,Office Supplies,Laptop,135
+2023-05-26,East,Office Supplies,Laptop,337
+2023-05-27,South,Technology,Table,343
+2023-05-28,West,Office Supplies,Phone,350
+2023-05-29,West,Office Supplies,Phone,492
+2023-05-30,South,Furniture,Printer,866
+2023-05-31,East,Technology,Printer,381
+2023-06-01,Central,Technology,Laptop,121
+2023-06-02,Central,Technology,Table,529
+2023-06-03,South,Office Supplies,Table,329
+2023-06-04,Central,Technology,Chair,500
+2023-06-05,South,Technology,Pen,253
+2023-06-06,South,Technology,Chair,219
+2023-06-07,South,Office Supplies,Laptop,777
+2023-06-08,Central,Furniture,Printer,995
+2023-06-09,West,Technology,Phone,485
+2023-06-10,Central,Furniture,Binder,489
+2023-06-11,Central,Technology,Desk,810
+2023-06-12,South,Technology,Phone,496
+2023-06-13,Central,Office Supplies,Laptop,446
+2023-06-14,South,Furniture,Table,686
+2023-06-15,South,Office Supplies,Chair,178
+2023-06-16,Central,Furniture,Printer,930
+2023-06-17,Central,Office Supplies,Table,684
+2023-06-18,South,Furniture,Printer,299
+2023-06-19,East,Office Supplies,Printer,913
+2023-06-20,West,Furniture,Laptop,233
+2023-06-21,Central,Furniture,Chair,659
+2023-06-22,South,Furniture,Chair,799
+2023-06-23,Central,Furniture,Binder,270
+2023-06-24,West,Technology,Phone,551
+2023-06-25,Central,Office Supplies,Table,238
+2023-06-26,West,Furniture,Binder,854
+2023-06-27,East,Furniture,Binder,413
+2023-06-28,Central,Technology,Table,575
+2023-06-29,Central,Office Supplies,Pen,445
+2023-06-30,South,Technology,Binder,487
+2023-07-01,East,Furniture,Desk,225
+2023-07-02,South,Furniture,Chair,818
+2023-07-03,Central,Furniture,Desk,950
+2023-07-04,South,Furniture,Printer,297
+2023-07-05,East,Furniture,Pen,798
+2023-07-06,East,Technology,Phone,117
+2023-07-07,Central,Furniture,Binder,809
+2023-07-08,East,Office Supplies,Phone,547
+2023-07-09,Central,Office Supplies,Printer,450
+2023-07-10,South,Office Supplies,Phone,764
+2023-07-11,Central,Furniture,Desk,743
+2023-07-12,Central,Furniture,Printer,425
+2023-07-13,South,Office Supplies,Pen,524
+2023-07-14,East,Furniture,Phone,264
+2023-07-15,East,Office Supplies,Pen,670
+2023-07-16,East,Office Supplies,Chair,277
+2023-07-17,West,Furniture,Binder,539
+2023-07-18,Central,Technology,Phone,764
+2023-07-19,East,Technology,Phone,773
